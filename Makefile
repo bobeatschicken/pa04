@@ -1,4 +1,4 @@
-all: sn1
+all: snl
 
-sn1: Board.cpp Game.cpp
-	g++ -o sn1 Board.cpp Game.cpp
+snl: Board.cpp Game.cpp
+	g++ -o snl Board.cpp Game.cpp
